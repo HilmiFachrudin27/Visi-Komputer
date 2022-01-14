@@ -1,0 +1,3 @@
+/content/darknet/data/dog.jpg
+/content/darknet/data/giraffe.jpg
+/content/darknet/data/eagle.jpg

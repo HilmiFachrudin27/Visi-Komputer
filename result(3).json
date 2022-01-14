@@ -1,0 +1,43 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/content/jalanan1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"/content/jalanan2.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.267995, "center_y":0.750335, "width":0.262209, "height":0.102584}, "confidence":0.963410}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.701029, "center_y":0.507485, "width":0.179726, "height":0.137159}, "confidence":0.944951}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.386337, "center_y":0.705806, "width":0.177536, "height":0.095443}, "confidence":0.944698}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.836889, "center_y":0.536357, "width":0.196952, "height":0.168563}, "confidence":0.935428}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.692697, "center_y":0.712073, "width":0.158725, "height":0.093790}, "confidence":0.893057}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.634782, "center_y":0.396962, "width":0.076200, "height":0.051374}, "confidence":0.780840}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.387587, "center_y":0.705786, "width":0.174482, "height":0.104809}, "confidence":0.342354}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.692794, "center_y":0.709231, "width":0.162015, "height":0.099020}, "confidence":0.335649}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.497784, "center_y":0.378203, "width":0.076840, "height":0.044901}, "confidence":0.399093}, 
+  {"class_id":7, "name":"truck", "relative_coordinates":{"center_x":0.572521, "center_y":0.377734, "width":0.055846, "height":0.036288}, "confidence":0.363380}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.502720, "center_y":0.809137, "width":0.204434, "height":0.104793}, "confidence":0.979535}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.095342, "center_y":0.853239, "width":0.190823, "height":0.108812}, "confidence":0.972804}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.051313, "center_y":0.752739, "width":0.103666, "height":0.082869}, "confidence":0.939698}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.246054, "center_y":0.953256, "width":0.301837, "height":0.092268}, "confidence":0.935689}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.768906, "center_y":0.634377, "width":0.133658, "height":0.074865}, "confidence":0.899511}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.163425, "center_y":0.699407, "width":0.149902, "height":0.075852}, "confidence":0.799787}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.641280, "center_y":0.574313, "width":0.096021, "height":0.045703}, "confidence":0.776987}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.606477, "center_y":0.606404, "width":0.113514, "height":0.058769}, "confidence":0.773516}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.356424, "center_y":0.623554, "width":0.107251, "height":0.055505}, "confidence":0.739507}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.467828, "center_y":0.582331, "width":0.104306, "height":0.048550}, "confidence":0.714523}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.312413, "center_y":0.650663, "width":0.124867, "height":0.062037}, "confidence":0.705735}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.797164, "center_y":0.439417, "width":0.048691, "height":0.024094}, "confidence":0.635814}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.232510, "center_y":0.467634, "width":0.060013, "height":0.029842}, "confidence":0.525902}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.531153, "center_y":0.547174, "width":0.089330, "height":0.051060}, "confidence":0.489806}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.218176, "center_y":0.443786, "width":0.051969, "height":0.027682}, "confidence":0.477288}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.583774, "center_y":0.520778, "width":0.062033, "height":0.040507}, "confidence":0.475068}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.119605, "center_y":0.440989, "width":0.055109, "height":0.029721}, "confidence":0.386725}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.493253, "center_y":0.600425, "width":0.999906, "height":0.466951}, "confidence":0.304667}
+ ] 
+}
+]
